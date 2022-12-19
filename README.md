@@ -15,15 +15,10 @@ in the the previous topic.
 | Security Readings | Optional | (see links below) | - | - |
 
 ## Resources: 
-[hooks-lecture](https://youtu.be/e18Kuwn0GR0)
-
-[hooks-docs](https://reactjs.org/docs/hooks-overview.html)
-
-[react-cp](https://github.com/FullstackAcademy/checkpoint-react-v2)
 
 [boilermaker_review](https://www.youtube.com/playlist?list=PLx0iOsdUOUmn7D5XL4mRUftn8hvAJGs8H)
 
-[workshop_deployment](https://learn.fullstackacademy.com/workshop/5bad3ec1ecb5e7000452b2d6/landing)
+[workshop_deployment](https://fullstack.instructure.com/courses/448/pages/full-stack-deployment-guide?module_item_id=131138)
 
 
 ## 🔎 **Async Week Project** 💡
