@@ -8,11 +8,11 @@ A few notes:
 in the the previous topic.
 - Our Project Boilerplate includes a playlist of videos to review ahead of Sr Phase: Testing, Deployment, and Security There are timestamps for each topic in the video description.
 
-| Topic       | Priority   | Project Link        | Workshop/Lab        | Solution     | Review      |
-| ----------- | ---------- | -------------- | ------------------- | ------------ | ----------- |
+| Topic       | Priority    | Workshop/Lab        | Solution     | Review      |
+| ----------- | ----------  | ------------------- | ------------ | ----------- |
 | Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker][solution_boilermaker] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist] [📺- Deployment][heroku-video] |
-| Async Week Project | **Mandatory** | - | (see details below) | - | - |
-| Security Readings | Optional | - | (see links below) | - | - |
+| Async Week Project | **Mandatory** | (see details below) | - | - |
+| Security Readings | Optional | (see links below) | - | - |
 
 ### Resources: 
 [hooks-lecture]: https://youtu.be/e18Kuwn0GR0
@@ -34,10 +34,10 @@ Absolutely anything you want it to be. This is meant to be “_fun and playful_.
 For some inspiration, check out this [list of technologies](https://docs.google.com/spreadsheets/d/1aApC_9G1tG1q3LfCfliUPHrK7NF2d3K9_Wu4mPT9BpY/edit?usp=sharing) to explore.
 
 ### **When?**
-It is **due by Friday at 1pm (EST) of Async Week**.
+It is **due by Friday at 6pm (EST) of Async Week**.
 
 ### **How?**
-Record a **short** (`<= 5` minutes) screencast and upload to YouTube as an **unlisted** video.
+Record a **short** (`<= 5` minutes) screencast and upload to YouTube as an **unlisted** video (or to Google Drive).
 
 Your video submission does ***not*** have to be polished. **At all.** You’re ***not*** expected to show this to anyone outside of this class. Just think of it as a casual class presentation. Keep it conversational.
 
