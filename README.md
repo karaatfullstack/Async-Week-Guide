@@ -10,7 +10,7 @@ in the the previous topic.
 
 | Topic       | Priority    | Workshop/Lab        | Solution     | Review      |
 | ----------- | ----------  | ------------------- | ------------ | ----------- |
-| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker][solution_boilermaker] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist] [📺- Deployment][heroku-video] |
+| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker Solution](https://github.com/FullstackAcademy/fs-app-template)| [📺 - Security Playlist](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhJfnvYtJGkzJObGHKdINpQF) [📺 - Intro to Testing](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhIA7zPzYMTSQOnmQevX2Ivt) [📺- Deployment](https://www.youtube.com/watch?v=Iz23rO7LvbE)|
 | Async Week Project | **Mandatory** | (see details below) | - | - |
 | Security Readings | Optional | (see links below) | - | - |
 
@@ -21,19 +21,10 @@ in the the previous topic.
 
 [react-cp](https://github.com/FullstackAcademy/checkpoint-react-v2)
 
-[workshop_boilermaker](https://learn.fullstackacademy.com/workshop/589f3d5b12f93c00045c27fd/landing)
-
-[solution_boilermaker](https://github.com/FullstackAcademy/fs-app-template)
-
 [boilermaker_review](https://www.youtube.com/playlist?list=PLx0iOsdUOUmn7D5XL4mRUftn8hvAJGs8H)
 
 [workshop_deployment](https://learn.fullstackacademy.com/workshop/5bad3ec1ecb5e7000452b2d6/landing)
 
-[Intro to testing playlist](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhIA7zPzYMTSQOnmQevX2Ivt)
-
-[security-playlist](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhJfnvYtJGkzJObGHKdINpQF)
-
-[heroku-video](https://www.youtube.com/watch?v=Iz23rO7LvbE)
 
 ## 🔎 **Async Week Project** 💡
 
