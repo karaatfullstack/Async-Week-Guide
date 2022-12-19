@@ -10,7 +10,7 @@ in the the previous topic.
 
 | Topic       | Priority   | Project Link        | Workshop/Lab        | Solution     | Review      |
 | ----------- | ---------- | -------------- | ------------------- | ------------ | ----------- |
-| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [🖼️ Exercise: Boilermaker][workshop_boilermaker] | [👾 Boilermaker][solution_boilermaker] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist] [📺- Deployment][heroku-video] |
+| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker][solution_boilermaker] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist] [📺- Deployment][heroku-video] |
 | Async Week Project | **Mandatory** | - | (see details below) | - | - |
 | Security Readings | Optional | - | (see links below) | - | - |
 
