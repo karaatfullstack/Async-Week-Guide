@@ -2,11 +2,7 @@
 
 Below are the topics to complete before Senior phase starts!
 
-A few notes:
-
-- It's best if you do the mandatory workshops _In order_. Each will build upon concepts
-in the the previous topic.
-- Our Project Boilerplate includes a playlist of videos to review ahead of Sr Phase: Testing, Deployment, and Security There are timestamps for each topic in the video description.
+Note: our Project Boilerplate includes a playlist of videos to review ahead of Sr Phase: Testing, Deployment, and Security There are timestamps for each topic in the video description.
 
 | Topic       | Priority    | Workshop/Lab        | Solution     | Review      |
 | ----------- | ----------  | ------------------- | ------------ | ----------- |
