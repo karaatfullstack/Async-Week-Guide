@@ -10,7 +10,7 @@ in the the previous topic.
 
 | Topic       | Priority    | Workshop/Lab        | Solution     | Review      |
 | ----------- | ----------  | ------------------- | ------------ | ----------- |
-| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker Solution](https://github.com/FullstackAcademy/fs-app-template)| [📺 - Security Playlist](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhJfnvYtJGkzJObGHKdINpQF) [📺 - Intro to Testing](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhIA7zPzYMTSQOnmQevX2Ivt) [📺- Deployment](https://www.youtube.com/watch?v=Iz23rO7LvbE)|
+| Boilermaker | **Mandatory** | [In Canvas](https://fullstack.instructure.com/courses/448/pages/boilermaker?module_item_id=127751) | [👾 Boilermaker Repo](https://github.com/FullstackAcademy/fs-app-template-v2)| [📺 - Security Playlist](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhJfnvYtJGkzJObGHKdINpQF) [📺 - Intro to Testing](https://www.youtube.com/playlist?list=PL_yPiP-ZZLhIA7zPzYMTSQOnmQevX2Ivt) [📺- Deployment](https://www.youtube.com/watch?v=Iz23rO7LvbE)|
 | Async Week Project | **Mandatory** | (see details below) | - | - |
 | Security Readings | Optional | (see links below) | - | - |
 
